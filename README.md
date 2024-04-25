@@ -53,3 +53,4 @@ have created the `Teacher` class correctly:
 npm test test/teacher-spec.js
 ```
 # Class-Inheritance
+# Class-Inheritance
